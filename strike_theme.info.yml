@@ -1,0 +1,21 @@
+name: Strike theme
+type: theme
+description: Clean and modern theme for the Strike distribution based on the Bulma flexbox framework.
+package: Strike
+core: 8.x
+libraries:
+  - strike_theme/global 
+
+base theme: stable
+
+regions:
+  meta_header: Meta Header
+  header: Header
+  highlighted: Highlighted
+  help: Help
+  featured: Featured
+  content: Content
+  footer_first: Footer first column
+  footer_middle: Footer middle column
+  footer_last: Footer last column
+  footer: Footer full width

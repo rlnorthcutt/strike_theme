@@ -1,0 +1,13 @@
+global:
+  version: VERSION
+  css:
+    base:
+      css/bulma.css: {}
+      css/strike.global.css: {}
+      css/strike.admin.css: {}
+      css/font-awesome.min.css: {}
+  js:
+    js/strike.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery
