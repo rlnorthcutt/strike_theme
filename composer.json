@@ -1,0 +1,6 @@
+{
+    "name": "rlnorthcutt/strike_theme",
+    "description": "Clean and modern Drupal 8 theme for the Strike distribution based on the Bulma flexbox framework.",
+    "type": "drupal-theme",
+    "license": "GPL-3.0+"
+}

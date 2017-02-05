@@ -4,7 +4,7 @@ description: Clean and modern theme for the Strike distribution based on the Bul
 package: Strike
 core: 8.x
 libraries:
-  - strike_theme/global 
+  - strike_theme/global
 
 base theme: stable
 
